@@ -1,0 +1,29 @@
+4
+CHORI-PIPA
+dmg_1 = 150
+dmg_2 = 100
+dmg_3 = 50
+balas = 1
+enfriamiento = 2
+modo_disparo = instantaneo
+CHORI-DIGUL
+dmg_1 = 0
+dmg_2 = 100
+dmg_3 = 40
+balas = 5
+enfriamiento = 1
+modo_disparo = normal
+CHORI-PLOMO
+dmg_1 = 150
+dmg_2 = 100
+dmg_3 = 50
+balas = 3
+enfriamiento = 4
+modo_disparo = instantaneo
+CHORIZO-TACTICO
+dmg_1 = 150 
+dmg_2 = 100
+dmg_3 = 50
+balas = 100
+enfriamiento = 1
+modo_disparo = instantaneo
