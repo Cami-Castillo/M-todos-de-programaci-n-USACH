@@ -1,0 +1,32 @@
+#include <stdio.h>
+/* Nombre: Camila Castillo
+ACTIVIDAD: Copiar cualquier imagen de internet y traspasarla a código ascii con el enlace https://www.ascii-art-generator.org/es.html. 
+Hacer un print en C de tal imagen.
+NOTA: 7
+*/
+
+
+int main(){
+	printf(	"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM \n");
+	printf( "MMMMMMMMMMMWNNXXXKKKKKKXXXNNWWMMMMMMMMMM \n");
+	printf(	"MMMMMMMWNXK000000000000000000KXNWMMMMMMM \n");
+	printf( "MMMMMWNK00O000000000000000000000KNWMMMMM \n");
+	printf( "MMMMNK000000OO00000000000000000000KNMMMM \n");
+	printf( "MMWN0000000000000000000000000000O00KNWMM \n");
+	printf( "MWX000000OkoclxO00000000OxlcokO000000XWM \n");
+	printf( "WNK000000k:...;x00000000x;...:k000000KNW \n");
+	printf( "WK0000000kc...;x00000000x:...:k0000000KW \n");
+	printf( "X0O00O000OkoloxO00000000OkolokOO00OOOO0X \n");
+	printf( "K0000O0000O000000000000000000OO000O00O0K \n");
+	printf( "0O000O0000OkkkkkkkkkkkkkkkkkkO0O000000O0 \n");
+	printf( "0O00OOO00Oxc::::::::::::::::cdO000OO00O0 \n");
+	printf( "00OO00O000OkkxkkkkkkkkkkkkkkkO000O00O000 \n");
+	printf( "000000000000OO000000000000O0000000000000 \n");
+	printf( "XK0O0000000OO00000000000000OO0000000O0KX \n");
+	printf( "WWNXK000000000000000000000000000000KKNWW \n");
+	printf( "MMMMWNNXXKKK0000000000000000KKKXXNWWMMMM \n");
+	printf( "MMMMMMMMMMWWWWNNNNNNNNNNNNWWWWMMMMMMMMMM \n");
+	printf( "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM \n");
+
+	return 0;
+}
